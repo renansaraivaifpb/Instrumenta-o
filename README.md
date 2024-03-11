@@ -12,7 +12,7 @@ And the assembly can be seen in the figure 2. Addicionalyt, I run code.c in ardu
 
 ### Figure 2 - Assembly of circuit.
 
-![|=35%x](assembly_circuit2.png "title-1") ![|=35%x](assembly_circuit2.png "title-2")
+![|=35%x](assembly_circuit.png "title-1") ![|=35%x](assembly_circuit2.png "title-2")
 
 ### Source: Author.
 
