@@ -14,10 +14,10 @@ And the assembly can be seen in the figure 2.
 
 
 <p align="center">
-  <img alt="Light" src="assembly_circuit.png" width="25%">
+  <img alt="Light" src="assembly_circuit.png" width="20%">
   <figcaption>2.a)</figcaption>
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="assembly_circuit2.png" width="25%">
+  <img alt="Dark" src="assembly_circuit2.png" width="20%">
   <figcaption>2.b)</figcaption>
 </p>
 
@@ -37,5 +37,5 @@ Plotting values, we can see in figure 3.
 
 ## Discuss
 Why values are in interval between 0 - 255?
-Becaus was realized transform in code: ```valor_lido = map(analogRead(potenciometro),0,1023,0,255);```
-The value was read and re-mapping to sign 0 and 5V.
+Because values of potentiometer are 0 - 1023 (10 bits) diferent arduino what is 8 bits. So I transform this values to 0 - 255 where represent 0 and 5V for the arduino.
+That allows the led to ligh up for varying values set by the potentiometer.
