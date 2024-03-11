@@ -13,13 +13,11 @@ And the assembly can be seen in the figure 2.
 # Figure 2 - Assembly of circuit.
 
 
-<p align="center">
-  <img alt="Light" src="assembly_circuit.png" width="20%">
 
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="assembly_circuit2.png" width="20%">
-
-</p>
+  <img alt="Dark" src="assembly_circuit2.png" width="50%">
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](assembly_circuit.png)  |  ![](assembly_circuit2.png)
 
 Source: Author.
 
