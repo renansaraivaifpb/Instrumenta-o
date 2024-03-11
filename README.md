@@ -1,16 +1,16 @@
-## Write and read of values varied by a potentiometer
+# Write and read of values varied by a potentiometer
 
 I developed a simulation of circuit eletronic in Tinkercard plataform (Figure 1).
 
-# Figure 1 - Circuit.
+### Figure 1 - Circuit.
 
 ![title](circuito.png)
 
-# Source: Author.
+### Source: Author.
 
 And the assembly can be seen in the figure 2.
 
-# Figure 2 - Assembly of circuit.
+### Figure 2 - Assembly of circuit.
 
 
 <p align="center">
@@ -21,7 +21,7 @@ And the assembly can be seen in the figure 2.
   <figcaption>2.b)</figcaption>
 </p>
 
-Source: Author.
+### Source: Author.
 
 The stage write values in file txt was used arduino + software known Miners Rogers. Where Miners can conect with serial of arduino and obtain the values registred for them saves in file txt.
 
@@ -29,11 +29,11 @@ The read was developed in Scilab, you are can review code in file code.c
 
 Plotting values, we can see in figure 3.
 
-# Figure 3 - Plotting values in scilab.
+### Figure 3 - Plotting values in scilab.
 
 ![Graph](graph.png)
 
-# Source: Author.
+### Source: Author.
 
 ## Discuss
 Why values are in interval between 0 - 255?
