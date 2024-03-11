@@ -14,9 +14,9 @@ And the assembly can be seen in the figure 2.
 
 
 <p align="center">
-  <img alt="Light" src="assembly_circuit.png" width="50%">
+  <img alt="Light" src="assembly_circuit.png" width="20%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="assembly_circuit2.png" width="50%">
+  <img alt="Dark" src="assembly_circuit2.png" width="20%">
 </p>
 
 Source: Author.
