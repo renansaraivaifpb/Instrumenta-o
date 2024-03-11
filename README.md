@@ -12,14 +12,9 @@ And the assembly can be seen in the figure 2.
 
 # Figure 2 - Assembly of circuit.
 
+![alt-text-1](assembly_circuit2.png "title-1" =20%x) ![alt-text-2](assembly_circuit2.png "title-2" =75%x)
 
-
-  <img alt="Dark" src="assembly_circuit2.png" width="50%">
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](assembly_circuit.png)  |  ![](assembly_circuit2.png)
-
-Source: Author.
+# Source: Author.
 
 The stage write values in file txt was used arduino + software known Miners Rogers. Where Miners can conect with serial of arduino and obtain the values registred for them saves in file txt.
 
