@@ -14,10 +14,10 @@ And the assembly can be seen in the figure 2.
 
 
 <p align="center">
-  <img alt="Light" src="assembly_circuit.png" width="35%">
+  <img alt="Light" src="assembly_circuit.png" width="30%">
   <figcaption>2.a)</figcaption>
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="assembly_circuit2.png" width="35%">
+  <img alt="Dark" src="assembly_circuit2.png" width="30%">
   <figcaption>2.b)</figcaption>
 </p>
 
