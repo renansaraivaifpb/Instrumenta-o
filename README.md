@@ -12,7 +12,7 @@ And the assembly can be seen in the figure 2.
 
 # Figure 2 - Assembly of circuit.
 
-![|20%](assembly_circuit2.png "title-1") ![|20%](assembly_circuit2.png "title-2")
+![|width =20%](assembly_circuit2.png "title-1") ![|20%](assembly_circuit2.png "title-2")
 
 # Source: Author.
 
