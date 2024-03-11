@@ -14,14 +14,16 @@ And the assembly can be seen in the figure 2.
 
 
 <p align="center">
-  <img alt="Light" src="assembly_circuit.png" width="20%">
+  <img alt="Light" src="assembly_circuit.png" width="40%">
+  <figcaption>2.a)</figcaption>
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="assembly_circuit2.png" width="20%">
+  <img alt="Dark" src="assembly_circuit2.png" width="40%">
+  <figcaption>2.b)</figcaption>
 </p>
 
 Source: Author.
 
-The etap write values in file txt was used arduino + software known Miners Rogers. Where Miners can conect with serial of arduino and obtain the values registred for them saves in file txt.
+The stage write values in file txt was used arduino + software known Miners Rogers. Where Miners can conect with serial of arduino and obtain the values registred for them saves in file txt.
 
 The read was developed in Scilab, you are can review code in file code.c
 
