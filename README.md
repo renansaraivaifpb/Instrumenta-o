@@ -12,7 +12,12 @@ And the assembly can be seen in the figure 2.
 
 # Figure 2 - Assembly of circuit.
 
-![alt-text-1](assembly_circuit.png "led off." =50%) ![alt-text-2](assembly_circuit2.png "led on."=50%)
+
+<p align="center">
+  <img alt="Light" src="assembly_circuit.png" width="50%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="assembly_circuit2.png" width="50%">
+</p>
 
 Source: Author.
 
