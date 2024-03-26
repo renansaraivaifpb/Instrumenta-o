@@ -1,3 +1,9 @@
+# Institution: Federal Institute of Paraíba - Cajazeiras  
+# Subject: Introdução a instrumentação eletrônica  
+# Teacher: Dr. Raphaell Maciel de Souza
+# Academics: Henrique Sobral, Miguel Ângelo e Renan Saraiva
+
+
 # Writing and reading values varied by a potentiometer.
 
 We developed a simulation of an electronic circuit on the Tinkercad platform (Figure 1)
