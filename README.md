@@ -1,7 +1,7 @@
  Institution: Federal Institute of Paraíba - Cajazeiras  
 Subject: Introdução a instrumentação eletrônica  
- Teacher: Dr. Raphaell Maciel de Souza
- Academics: Henrique Sobral, Miguel Ângelo e Renan Saraiva
+Teacher: Dr. Raphaell Maciel de Souza
+Academics: Henrique Sobral, Miguel Ângelo e Renan Saraiva
 
 
 # Writing and reading values varied by a potentiometer.
