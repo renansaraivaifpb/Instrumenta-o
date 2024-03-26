@@ -1,6 +1,6 @@
-# Write and read of values varied by a potentiometer
+# Writing and reading values varied by a potentiometer.
 
-I developed a simulation of circuit eletronic in Tinkercard plataform (Figure 1).
+We developed a simulation of an electronic circuit on the Tinkercad platform (Figure 1)
 
 ### Figure 1 - Circuit.
 
@@ -8,7 +8,7 @@ I developed a simulation of circuit eletronic in Tinkercard plataform (Figure 1)
 
 ### Source: Author.
 
-And the assembly can be seen in the figure 2. Addicionalyt, I run code.c in arduino using idle arduino.
+The assembly can be seen in Figure 2. Additionally, I ran the code.c on an Arduino using the Arduino IDE
 
 ### Figure 2 - Assembly of circuit.
 
@@ -16,11 +16,11 @@ And the assembly can be seen in the figure 2. Addicionalyt, I run code.c in ardu
 
 ### Source: Author.
 
-The stage write values in file txt was used arduino + software known Miners Rogers. Where Miners can conect with serial of arduino and obtain the values registred for them saves in file txt.
+The stage of writing values to a .txt file was accomplished using Arduino along with the well-known software Miners Rogers. With Miners, one can connect to the Arduino's serial port and obtain the registered values, saving them in a .txt file.
 
-The read was developed in Scilab, you are can review code in file scilab.sce.
+The reading process was developed in Scilab. You can review the code in the file scilab.sce.
 
-Plotting values, we can see in figure 3.
+By plotting the values, as shown in Figure 3, we can observe their distribution.
 
 ### Figure 3 - Plotting values in scilab.
 
@@ -29,8 +29,10 @@ Plotting values, we can see in figure 3.
 ### Source: Author.
 
 ## Discuss
-Why values are in interval between 0 - 255?
-Because values of potentiometer are 0 - 1023 (10 bits) diferent arduino what is 8 bits. So I transform this values to 0 - 255 where represent 0 and 5V for the arduino.
-That allows the led to ligh up for varying values set by the potentiometer.
+Why are the values in the interval between 0 and 255?
+
+This is because the values of the potentiometer range from 0 to 1023 (10 bits), which is different from Arduino's 8-bit resolution. Therefore, I transformed these values to a range of 0 to 255, representing the full range from 0 to 5V for the Arduino.
+
+This transformation allows the LED to light up for varying values set by the potentiometer
 
 
