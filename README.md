@@ -72,4 +72,8 @@ To carry out this activity, the tinkcard platform was used to simulate the resul
 
 ### Source: Authores.
 
+# Updates:
+
+The behavior, in this new commit, can be viewed on the Arduino serial, see the behavior of the low pass filter in the link below.
+
 The [link](https://youtu.be/0FCDj9dwIl0) shows the variation of the potentiometer and the visualization of the Vc output of the low pass filter.
