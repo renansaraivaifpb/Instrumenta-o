@@ -66,7 +66,7 @@ To carry out this activity, the tinkcard platform was used to simulate the resul
 
 ### Source: Authores.
 
-### Figure 6 - Plotting values in Scilab.
+### Figure 7 - Circuit assembly.
 
 ![Graph](montagem2.png)
 
