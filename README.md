@@ -49,8 +49,8 @@ To carry out this activity, the tinkcard platform was used to simulate the resul
 
 ### Figure 6 - Plotting values in Scilab.
 
-![Graph](circuit low pass.png)
+![Graph](circuit_low_pass.png)
 
 ### Source: Authores.
 
-The link (![link](https://www.youtube.com/watch?v=cdWZpjVGYho)) shows the variation of the potentiometer and the visualization of the Vc output of the low pass filter.
+The link (https://www.youtube.com/watch?v=cdWZpjVGYho) shows the variation of the potentiometer and the visualization of the Vc output of the low pass filter.
