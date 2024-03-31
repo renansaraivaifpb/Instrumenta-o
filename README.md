@@ -1,5 +1,5 @@
  Institution: Federal Institute of Paraíba - Cajazeiras  
-Subject: Introdução a instrumentação eletrônica  
+Subject: Introduction to electronic instrumentation
 Teacher: Dr. Raphaell Maciel de Souza
 
 Academics: Henrique Sobral, Miguel Ângelo e Renan Saraiva
