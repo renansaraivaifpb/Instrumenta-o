@@ -42,6 +42,19 @@ This is because the values of the potentiometer range from 0 to 1023 (10 bits), 
 
 This transformation allows the LED to light up for varying values set by the potentiometer
 
+# Implement the high pass filter in the Scilab code that we developed in class
+
+### Figure 4 - Plot with frequence one values in Scilab.
+
+![Graph](plot_1.png)
+
+### Source: Authores.
+
+### Figure 5 - Plotting values in Scilab.
+
+![Graph](plot_2.png)
+
+### Source: Authores.
 
 # Plotting the output of the low pass filter on the potentiometer.
 
@@ -53,4 +66,4 @@ To carry out this activity, the tinkcard platform was used to simulate the resul
 
 ### Source: Authores.
 
-The link (https://www.youtube.com/watch?v=cdWZpjVGYho) shows the variation of the potentiometer and the visualization of the Vc output of the low pass filter.
+The [link (https://www.youtube.com/watch?v=cdWZpjVGYho)](https://youtu.be/5q8u0i0x99s) shows the variation of the potentiometer and the visualization of the Vc output of the low pass filter.
